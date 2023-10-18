@@ -6,6 +6,8 @@ Welcome to the Industry-Grade MLOps Template repository. This template is design
 
 The template follows a well-organized structure for your MLOps projects:
 
+- **venv/**: Python virtual environment. This is  used to create and manage a Python virtual environment any project.
+
 - **artifacts/**: Store model artifacts and other output files here.
 
 - **notebooks/**: Jupyter notebooks for data analysis and experimentation.
