@@ -57,3 +57,10 @@ The template follows a well-organized structure for your MLOps projects:
 We welcome contributions to enhance this MLOps template. If you have suggestions, bug fixes, or feature additions, please open an issue or submit a pull request.
 
 Happy MLOps journey with the Industry-Grade MLOps Template!
+
+## Contact
+If you have questions or feedback, feel free to reach out to:
+
+- Name: Yash keshari
+- Email: yashkeshari79@gmail.com 
+- linkedin - www.linkedin.com/in/yash907
