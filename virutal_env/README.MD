@@ -1,0 +1,1 @@
+# This folder is restricted to virutal environment. Its a good practice to create a virtual environment for each project. 
