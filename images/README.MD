@@ -1,0 +1,1 @@
+# The image folder is usually used to store images, visuals realted to project. It can be useful for documenting your work or providing project visualizations.  

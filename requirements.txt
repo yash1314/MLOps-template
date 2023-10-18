@@ -1,0 +1,3 @@
+# This file contains all the required libraries that is used in the project.
+# to install the requirement.txt file, use code:
+# python run -r requirement.txt

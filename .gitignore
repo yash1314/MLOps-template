@@ -1,0 +1,3 @@
+# This file contains name of the files and folder which is not required/desired on github repository. Files 
+# which needs to be excluded form versrion control rest here. This ensures security of sensitive files and
+# information. 
